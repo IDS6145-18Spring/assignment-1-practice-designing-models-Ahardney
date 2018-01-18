@@ -6,7 +6,7 @@
 
 ## General Introduction
 
-A **smart city** relies on technology to improve life in urban area. Technology has seep deeper into the fabric of everyday life, and governments are looking at how to incorporate technology into our everyday lives.
+A very **smart city** relies on technology to improve life in urban area. Technology has seep deeper into the fabric of everyday life, and governments are looking at how to incorporate technology into our everyday lives.
 
 ![Image of Smart City](images/Smartrealcity.png)
 
