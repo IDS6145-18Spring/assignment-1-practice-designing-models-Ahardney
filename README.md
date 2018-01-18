@@ -5,24 +5,18 @@
 > * Project Title: Smart Roads & Highways 
 
 ## General Introduction
-
-A very **smart city** relies on technology to improve life in urban area. Technology has seep deeper into the fabric of everyday life, and governments are looking at how to incorporate technology into our everyday lives.
-
-![Image of Smart City](images/Smartrealcity.png)
-
-
-(remove: States your motivation clearly: why is it important / interesting to solve this problem?)
-(remove: Add real-world examples, if any)
-(remove: Put the problem into a historical context, from what does it originate? Are there already some proposed solutions?)
+As the search for affordable housing continues to push people further away from the city and have people commuting further then ever. Roads into and from downtown experience ever growing congestion. Smart roads and highways of the future should increase mobility and relieve congestion on roads and highways. 
+Freight and Passenger volumes are projected to increase by more than 60 percent over the next 30 years, straining our roads and highways. As the demand for  transportation increase transporation network needs a upgrade.
 
 ## Requirements (Experimental Design)
 
-(remove: You should start by specifying a set of requirements. I specified a topic Smart Cities but what exactly does that mean-  you should practice formulating your own set of requirements and an experiment. Define a hypothesis of a problem cities face and how a smart city would possibly help alleviate this issue. This helps you think about your problem communication and system objectives inputs, functions, and outputs - they should be clearly specified.)
+Large cities such as Orlando experience congestion thoughout the day. New technologies, like automated and connected vehicles, will soon make travel significantly safer and more convenient. Advance in technologies will enable governments and private commpanies alike to improve the transportation grid. Cities should be able to determine there particular needs. The requirments that would makes the roads and highways more efficiency are listed below.
+1. Smart Corridors
+2. Autonomous Vehicles 
+3. Smart Payment Systems
 
-## Smart City (My Problem) Model
+## Smart City (My Problem) Model 
 
-(remove: add a high-level overview of your model, the part below should link to the model directory markdown files)
-(remove: Look at the [**Object Diagram**](model/object_diagram.md) for how to structure this part of Part 2 for each diagram. Only the Object diagram has the template, the rest are blank. )
 
 ![**Object Diagram**](images/ObjectDiagram.png)
 
@@ -33,7 +27,7 @@ A very **smart city** relies on technology to improve life in urban area. Techno
 
 ## Smart City (My Problem) Simulation
 
-(remove: for part 3 add two to three sentences here and link the [**(your own name)**](model/README.md) file in the analysis folder - which describe how you would simulate this - type of simulation, rough details -inputs, outputs - how it will help you analyze your experimental hypothesis, or nullify your null hypothesis.)
+The simulation aspect of the design of the systems I purpose will have be conducted on connected infrastructure to data analytics. The simulation has been going on for the autonomous vehicle for years. They have almost done million of miles with passenger and commerical vehicles without any serious or fatal crashes. (model/README.md)
 
 
 ## Smart City (My Problem) Model
