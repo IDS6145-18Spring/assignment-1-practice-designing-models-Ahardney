@@ -11,5 +11,6 @@ a real system)
 
 
 Example linked diagram to help you.
-![POTS system](../../images/class_example_diagram.png)
+![POT DIAGRAM.PNG](images/POT DIAGRAM.PNG)
+
 more decription
