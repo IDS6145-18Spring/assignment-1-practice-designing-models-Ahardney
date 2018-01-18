@@ -8,6 +8,8 @@
 As the search for affordable housing continues to push people further away from the city and have people commuting further then ever. Roads into and from downtown experience ever growing congestion. Smart roads and highways of the future should increase mobility and relieve congestion on roads and highways. 
 Freight and Passenger volumes are projected to increase by more than 60 percent over the next 30 years, straining our roads and highways. As the demand for  transportation increase transporation network needs a upgrade.
 
+![** Picture**](images/Smartrealcity.png)
+
 ## Requirements (Experimental Design)
 
 Large cities such as Orlando experience congestion thoughout the day. New technologies, like automated and connected vehicles, will soon make travel significantly safer and more convenient. Advance in technologies will enable governments and private commpanies alike to improve the transportation grid. Cities should be able to determine there particular needs. The requirments that would makes the roads and highways more efficiency are listed below.
