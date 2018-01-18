@@ -12,5 +12,5 @@ a real system)
 
 Example linked diagram to help you.
 
-![**Pots Digram.png**](images/Pots Digram.png)
+![**PotsDigram.png**](images/PotsDigram.png)
 more decription
