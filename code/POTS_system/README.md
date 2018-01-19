@@ -1,16 +1,12 @@
 ## **P**ortable **O**rganic **T**rouble-free **S**elf-watering System (**POTS**) Model
 
-(Remove: decribe the model here, use whatever diagram you need object, class, etc)
+This model is very simple. It all start with planting vegetables, but it start with putting the vegatable in a pot instead of the ground. Then you have your soil and water. Then you will let nature take it course.
 
-(Remove: The code does run - you should try it. It does not do much, but has a very basic 
-simulation loop in it and key press to take a look at.)
-
-(Remove: You kill your plants after a key timesteps, but you could always add nuterients
-from compost and add more water and tweak it based on measured constants to simulate
-a real system)
+The code does run, try it if you want. It does not do much at all as I'm a novice. It is very, very, very basic code
 
 
 Example linked diagram to help you.
 
 ![**PotsDigram.png**](../../images/PotsDigram.png)
-more decription
+
+![**PotsCodes.png**] (images/PotsCodes.png)
