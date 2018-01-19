@@ -9,4 +9,4 @@ Example linked diagram to help you.
 
 ![**PotsDigram.png**](../../images/PotsDigram.png)
 
-![**PotsCodes.png**] (images/PotsCodes.png)
+![**PotsCodes.png**] (../../images/PotsCodes.png)
