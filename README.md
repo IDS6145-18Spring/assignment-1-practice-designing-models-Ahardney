@@ -33,7 +33,7 @@ The simulation aspect of the design of the systems I purpose will have be conduc
 
 
 ## Smart City (My Problem) Model
-[**Code template**](code/AV.py) - Starting coding framework for the (insert your exact problem here.)
+[**Code template**](code/README.md) - Look at my code here*
 
 ## **P**ortable **O**rganic **T**rouble-free **S**elf-watering System (**POTS**) Model
 Here [**we provide an overview**](code/POTS_system/README.md) of the **P**ortable **O**rganic **T**rouble-free **S**elf-watering System (**POTS**) Model and provide a source code template.
